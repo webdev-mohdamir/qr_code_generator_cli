@@ -7,7 +7,7 @@ This CLI application generates a QR code for a provided URL and saves it as an S
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:webdev-mohdamir/qr_code_generator_cli.git
    ```
 
 2. **Navigate to the Project Directory:**
